@@ -1,0 +1,7 @@
+@font-face {
+  font-family: Maincra;
+  src: url("../fonts/Minecraft.ttf") format("opentype");
+}
+body {
+  font-family: Maincra, Helvetica, sans-serif;
+}
